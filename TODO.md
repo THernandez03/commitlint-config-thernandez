@@ -1,0 +1,1 @@
+- Add a .versionrc which should match with changelog.config.js
