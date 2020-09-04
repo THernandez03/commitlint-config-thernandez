@@ -7,7 +7,7 @@ module.exports = {
     'perf',
     'prune',
     'fix',
-    'quickfix',
+    'hotfix',
     'feature',
     'docs',
     'deploy',
@@ -90,9 +90,9 @@ module.exports = {
       value: 'fix',
       description: 'Fixing a bug.',
     },
-    quickfix: {
+    hotfix: {
       emoji: '🚑',
-      value: 'quickfix',
+      value: 'hotfix',
       description: 'Critical hotfix.',
     },
     feature: {
