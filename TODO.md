@@ -1,1 +1,2 @@
 - Add a .versionrc which should match with changelog.config.js
+- Add a README.md
