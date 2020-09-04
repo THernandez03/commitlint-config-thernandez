@@ -12,7 +12,7 @@ export default {
         'perf',
         'prune',
         'fix',
-        'quickfix',
+        'hotfix',
         'feature',
         'docs',
         'deploy',
