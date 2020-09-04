@@ -29,7 +29,6 @@
   "dependencies": {
     "@babel/runtime": "^7.11.2",
     "@commitlint/config-conventional": "^10.0.0",
-    "@commitlint/format": "^9.1.2",
     "@commitlint/parse": "^9.1.2"
   },
   "devDependencies": {
