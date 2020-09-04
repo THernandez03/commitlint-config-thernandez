@@ -395,5 +395,10 @@ module.exports = {
       value: 'animation',
       description: 'Adding or updating animations and transitions',
     },
+    todo: {
+      emoji: '🗒',
+      value: 'todo',
+      description: 'Add or updating TODOs',
+    },
   },
 };
