@@ -1,7 +1,7 @@
 export default {
   extends: ['@commitlint/config-conventional', '@commitlint/parse'],
   rules: {
-    'header-max-length': [2, 'always', 50],
+    'header-max-length': [2, 'always', 70],
     'subject-case': [2, 'always', 'sentence-case'],
     'type-enum': [
       2,
@@ -69,7 +69,7 @@ export default {
         'types',
         'typo',
         'ui',
-        'upgrade',
+        'update',
         'ux',
         'windows',
         'wip',
