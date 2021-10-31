@@ -28,14 +28,14 @@
     "prepare": "husky install"
   },
   "dependencies": {
-    "@babel/runtime": "^7.15.4",
+    "@babel/runtime": "^7.16.0",
     "@commitlint/config-conventional": "^13.2.0",
     "@commitlint/parse": "^13.2.0"
   },
   "devDependencies": {
-    "@babel/cli": "^7.15.7",
-    "@babel/core": "^7.15.8",
-    "@babel/eslint-parser": "^7.15.8",
+    "@babel/cli": "^7.16.0",
+    "@babel/core": "^7.16.0",
+    "@babel/eslint-parser": "^7.16.0",
     "@commitlint/cli": "^13.2.1",
     "babel-plugin-add-module-exports": "^1.0.4",
     "babel-preset-thernandez": "^0.0.23",
