@@ -29,21 +29,21 @@
   },
   "dependencies": {
     "@babel/runtime": "^7.18.3",
-    "@commitlint/config-conventional": "^17.0.0",
+    "@commitlint/config-conventional": "^17.0.2",
     "@commitlint/parse": "^17.0.0"
   },
   "devDependencies": {
     "@babel/cli": "^7.17.10",
     "@babel/core": "^7.18.2",
     "@babel/eslint-parser": "^7.18.2",
-    "@commitlint/cli": "^17.0.1",
+    "@commitlint/cli": "^17.0.2",
     "babel-plugin-add-module-exports": "^1.0.4",
     "babel-preset-thernandez": "^0.0.26",
     "eslint": "^8.16.0",
-    "eslint-config-thernandez": "^0.0.33",
+    "eslint-config-thernandez": "^0.0.34",
     "git-cz": "^4.9.0",
     "husky": "^8.0.1",
-    "lint-staged": "^12.4.2",
+    "lint-staged": "^13.0.0",
     "prettier": "^2.6.2",
     "standard-version": "^9.5.0"
   }
