@@ -33,14 +33,14 @@
     "@commitlint/parse": "^17.0.0"
   },
   "devDependencies": {
-    "@babel/cli": "^7.18.9",
-    "@babel/core": "^7.18.9",
+    "@babel/cli": "^7.18.10",
+    "@babel/core": "^7.18.10",
     "@babel/eslint-parser": "^7.18.9",
     "@commitlint/cli": "^17.0.3",
     "babel-plugin-add-module-exports": "^1.0.4",
     "babel-preset-thernandez": "^0.0.26",
-    "eslint": "^8.20.0",
-    "eslint-config-thernandez": "^0.0.34",
+    "eslint": "^8.21.0",
+    "eslint-config-thernandez": "^0.0.35",
     "git-cz": "^4.9.0",
     "husky": "^8.0.1",
     "lint-staged": "^13.0.3",
