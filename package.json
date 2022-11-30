@@ -28,13 +28,13 @@
     "prepare": "husky install"
   },
   "dependencies": {
-    "@babel/runtime": "^7.20.1",
+    "@babel/runtime": "^7.20.6",
     "@commitlint/config-conventional": "^17.3.0",
     "@commitlint/parse": "^17.2.0"
   },
   "devDependencies": {
     "@babel/cli": "^7.19.3",
-    "@babel/core": "^7.20.2",
+    "@babel/core": "^7.20.5",
     "@babel/eslint-parser": "^7.19.1",
     "@commitlint/cli": "^17.3.0",
     "babel-plugin-add-module-exports": "^1.0.4",
@@ -43,7 +43,7 @@
     "eslint-config-thernandez": "^0.0.35",
     "git-cz": "^4.9.0",
     "husky": "^8.0.2",
-    "lint-staged": "^13.0.3",
+    "lint-staged": "^13.0.4",
     "prettier": "^2.8.0",
     "standard-version": "^9.5.0"
   }
