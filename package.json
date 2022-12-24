@@ -28,13 +28,13 @@
     "prepare": "husky install"
   },
   "dependencies": {
-    "@babel/runtime": "^7.20.6",
+    "@babel/runtime": "^7.20.7",
     "@commitlint/config-conventional": "^17.3.0",
     "@commitlint/parse": "^17.2.0"
   },
   "devDependencies": {
-    "@babel/cli": "^7.19.3",
-    "@babel/core": "^7.20.5",
+    "@babel/cli": "^7.20.7",
+    "@babel/core": "^7.20.7",
     "@babel/eslint-parser": "^7.19.1",
     "@commitlint/cli": "^17.3.0",
     "babel-plugin-add-module-exports": "^1.0.4",
