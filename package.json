@@ -28,7 +28,7 @@
     "prepare": "husky install"
   },
   "dependencies": {
-    "@babel/runtime": "^7.20.7",
+    "@babel/runtime": "^7.20.13",
     "@commitlint/config-conventional": "^17.4.2",
     "@commitlint/parse": "^17.4.2"
   },
