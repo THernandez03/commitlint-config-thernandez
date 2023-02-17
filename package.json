@@ -39,7 +39,7 @@
     "@commitlint/cli": "^17.4.3",
     "babel-plugin-add-module-exports": "^1.0.4",
     "babel-preset-thernandez": "^0.0.26",
-    "eslint": "^8.33.0",
+    "eslint": "^8.34.0",
     "eslint-config-thernandez": "^0.0.37",
     "git-cz": "^4.9.0",
     "husky": "^8.0.3",
